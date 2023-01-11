@@ -3,19 +3,27 @@
 
 # Project Name
 Long Description about project. This project do that. This project is awesome...
+
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. [Ashish Anton Abraham](https://github.com/Ashish-Abraham)
+2. [Abdul Hafeez Galib](https://github.com/Abdul-Hafeez-Galib)
+3. [Mohammed Shahadan](https://github.com/Shahdan2001)
+
 ## Team Id
-Team id here(You can find it in email)
+krk46H9J0fICmrY6YZZE
+
 ## Link to product walkthrough
 [link to video]
+
 ## How it Works ?
 1. Explaining the working of project
 2. Embed video of project demo
+
 ## Libraries used
 Library Name - Version
+
 ## How to configure
 Instructions for setting up project
+
 ## How to Run
 Instructions for running
