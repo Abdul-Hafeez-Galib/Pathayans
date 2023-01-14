@@ -28,7 +28,24 @@ krk46H9J0fICmrY6YZZE
 - gTTS = v2.3.0 (Text to Speech Conversion of the generated tour plan)
 
 ## How to configure
-Instructions for setting up project
+1. Clone the Github repo using the git clone command .
+2. Make sure you have Python installed in your computer and an IDE.
+3. Install the dependencies locally.
+    ```
+      pip install streamlit
+    ```
+    
+    ```
+      pip install openai
+    ```
+    
+    ```
+      pip install gTTS
+    ```
+ 4.
 
 ## How to Run
 Instructions for running
+```
+      git clone https://github.com/Abdul-Hafeez-Galib/Face-Detection-WebApp.git
+    ```
