@@ -1,0 +1,4 @@
+gTTS==2.3.0
+openai==0.26.0
+streamlit==1.13.0
+python-dotenv==0.21.0
