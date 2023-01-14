@@ -16,7 +16,7 @@ krk46H9J0fICmrY6YZZE
 https://abdul-hafeez-galib-pathayans-main-otedrq.streamlit.app/
 
 ## Link to product walkthrough
-[Tour-Inspirer Demo Video](https://www.loom.com/share/cdd2df4ab3f14a468585e2ce32e81b5b)
+[Tour-Inspirer Demo-Video](https://www.loom.com/share/cdd2df4ab3f14a468585e2ce32e81b5b)
 
 ## How it Works ?
 1. Enter the details of your tour - like Destination name, Departure and Arrival Details which includes the date, time and the medium of travel (train, flight, bus etc).
