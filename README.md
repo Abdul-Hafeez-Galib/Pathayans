@@ -42,8 +42,8 @@ krk46H9J0fICmrY6YZZE
     ```
       pip install gTTS
     ```
- 4. Create a .env file in the root directory of the project.
- 5. Go to Open AI website and login to generate an API Key. Paste it as value of variable OPENAI_API_KEY in .env file.
+ 4. Create a secrets.toml file inside the .streamlit directory in the project.
+ 5. Go to Open AI website and login to generate an API Key. Paste it as value of variable openai_api_key in secrets.toml file.
  6. Now the project is ready to be run locally.
 
 ## How to Run
