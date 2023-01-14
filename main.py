@@ -1,4 +1,3 @@
-import os
 from datetime import datetime, timedelta
 
 import openai
@@ -18,7 +17,7 @@ hide_menu = """
 
 load_dotenv()
 
-openai.api_key = os.getenv('OPENAI_API_KEY')
+openai.api_key = st.secrets["openai_api_key"]
 
 now_date = datetime.now()
 
