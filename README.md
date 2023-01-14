@@ -42,10 +42,14 @@ krk46H9J0fICmrY6YZZE
     ```
       pip install gTTS
     ```
- 4.
+ 4. Create a .env file in the root directory of the project.
+ 5. Go to Open AI website and login to generate an API Key. Paste it as value of variable OPENAI_API_KEY in .env file.
+ 6. Now the project is ready to be run locally.
 
 ## How to Run
-Instructions for running
-```
-      git clone https://github.com/Abdul-Hafeez-Galib/Face-Detection-WebApp.git
-    ```
+Go to the directory of the project and run the following command.
+   ```
+      streamlit run main.py
+   ```
+
+The web-app will open in your default browser and just enter the details as mentioned in the working of the project above and you are all set to plan your tour. 
