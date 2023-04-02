@@ -1,6 +1,5 @@
 ![Github](https://user-images.githubusercontent.com/64391274/211215734-bbc57b92-9a71-496d-873e-3eedc7523916.png)
 
-
 # Tour-Inspirer
 This is a web-app which will give you suggestions for planning your tour to a destination. We just need to enter our destination and the details of our departure and the return details from that destination, the AI integrated web-app (using OpenAI) will generate the recommended tour plan suggesting the places, food and other things to try out at that place. It basically inspires you to plan your tour and gives you a custom recommended schedule from your departure to the arrival at your original location. It also displays AI generated pics of your destination.
 
@@ -13,10 +12,7 @@ This is a web-app which will give you suggestions for planning your tour to a de
 krk46H9J0fICmrY6YZZE
 
 ## Download Link
-https://www.mediafire.com/file/wk55s2jkx73hm1p/piano-tiles.zip/file
-
-Extract the zip file.
-Click on piano-tiles.exe
+https://abdul-hafeez-galib-pathayans-main-otedrq.streamlit.app/
 
 ## Link to product walkthrough
 [Tour-Inspirer Demo-Video](https://www.loom.com/share/cdd2df4ab3f14a468585e2ce32e81b5b)
