@@ -11,7 +11,7 @@ This is a web-app which will give you suggestions for planning your tour to a de
 ## Team Id
 krk46H9J0fICmrY6YZZE
 
-## Download Link
+## Deployed Link
 https://abdul-hafeez-galib-pathayans-main-otedrq.streamlit.app/
 
 ## Link to product walkthrough
