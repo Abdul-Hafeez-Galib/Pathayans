@@ -14,6 +14,10 @@ krk46H9J0fICmrY6YZZE
 ## Deployed Link
 https://abdul-hafeez-galib-pathayans-main-otedrq.streamlit.app/
 
+NOTE:
+
+(☹️ The Open AI API pricing is changed, so the app shows some error now. Kindly see the product demo video)
+
 ## Link to product walkthrough
 [Tour-Inspirer Demo-Video](https://www.loom.com/share/cdd2df4ab3f14a468585e2ce32e81b5b)
 
